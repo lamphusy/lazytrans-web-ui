@@ -1,1 +1,1 @@
-# LazyTrans-Web
+# LazyTrans-Web-UI
